@@ -1,3 +1,5 @@
+![image](https://github.com/ikaushiksharma/Octahacks5/assets/90143986/d4f91bf0-8677-4ccb-983d-5259d8ace3f5)
+
 <p align="center"> <h1 align="center">Octahacks5</h1></p>
 <p align="center">OctaHacks is the annual flagship event of GDSC, Chitkara University, where innovators get an opportunity
 to merge their creative ideas with their technical skills to build something exemplary. Expect more than 36
